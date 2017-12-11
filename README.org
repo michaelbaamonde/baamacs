@@ -1,0 +1,4 @@
+#+TITLE: Baamacs
+
+This is /heavily/ inspired by [[https://github.com/dakrone/eos][EOS]], the impressive, elegant setup of the
+inimitable Lee Hinman.
